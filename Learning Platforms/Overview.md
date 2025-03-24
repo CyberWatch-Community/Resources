@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://cyberwatch.cc/media/banner.png" alt="CyberWatch Banner" />
+  <img src="https://i.ibb.co/gyRyLwc/cyberwatch-advert.gif" alt="CyberWatch Advertisement" height="200">
 </div>
 
 ---
